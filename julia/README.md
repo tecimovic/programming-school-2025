@@ -1,4 +1,4 @@
-# r e a d m e
-my teacher made me make this
+# R e a d m e
+My teacher made me make this.
 
 =^.^=
